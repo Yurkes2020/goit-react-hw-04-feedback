@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yurkes2020/goit-react-hw-04-feedback/static/css/main.676967bc.css",
+    "main.js": "/Yurkes2020/goit-react-hw-04-feedback/static/js/main.e882b34e.js",
+    "index.html": "/Yurkes2020/goit-react-hw-04-feedback/index.html",
+    "main.676967bc.css.map": "/Yurkes2020/goit-react-hw-04-feedback/static/css/main.676967bc.css.map",
+    "main.e882b34e.js.map": "/Yurkes2020/goit-react-hw-04-feedback/static/js/main.e882b34e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.676967bc.css",
+    "static/js/main.e882b34e.js"
+  ]
+}
